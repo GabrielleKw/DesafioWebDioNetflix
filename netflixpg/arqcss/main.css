@@ -1,0 +1,87 @@
+:root{
+    --azul: #1621c6;
+    --preta: #141414; 
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: var(--preta);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+header .logo{
+    margin: 5px;
+    color:aqua;
+    font-family: 'Arial Black', Times;
+    font-size: 40px;
+}
+header nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+header nav a:hover{
+    color: aqua;
+}
+
+header .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+/*Entrada inicial foto 01*/
+.principal{
+    font-size: 16px;
+    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(../img/yato1.png);
+    height: 400px;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.principal .descricao{
+    margin-top: 10px;
+    margin-bottom: 5px;
+
+}
+
+.titulo{
+    margin-top: 15%;
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+    padding: 15px;
+    margin-right: 15px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+.botao:hover{
+    background: aqua;
+    color: black;
+}
+.botao i{
+    margin-right: 8px;
+    font-size: 15px;
+}
+
+.box-img{
+    height: 80%;
+    width: 80%;
+    display: block;
+    background: #141414;
+    justify-content:center;
+}
