@@ -1,6 +1,7 @@
 # Descrição do Desafio
 Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins JQuery a favor da sua aplicação.
 
+<h3 align="center"> 
 
 ![WhatsApp Video 2022-06-29 at 18 40 43](https://user-images.githubusercontent.com/76081229/176551137-c14a68ab-e259-4ef9-8c4d-c5997b7cc968.gif)
 
@@ -10,6 +11,11 @@ Recrie a interface do principal site de streaming mundial utilizando tecnologias
 
 ![WhatsApp Video 2022-06-29 at 18 40 43](https://user-images.githubusercontent.com/76081229/176551165-590e453e-83c9-41b9-80f4-d4ac1a1d5043.gif)
 
+</h3> 
+
 # Certificação 
+<h3 align="center"> 
 
 ![image](https://user-images.githubusercontent.com/76081229/176551391-3698b5aa-4472-48b2-8fef-6b1b4dac30eb.png)
+
+</h3>
